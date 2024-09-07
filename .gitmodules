@@ -1,0 +1,3 @@
+[submodule "eventstar-be"]
+	path = eventstar-be
+	url = git@github.com:ridho-y/eventstar-be.git
