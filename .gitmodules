@@ -1,6 +1,8 @@
 [submodule "eventstar-be"]
 	path = eventstar-be
 	url = git@github.com:ridho-y/eventstar-be.git
+	branch = main
 [submodule "eventstar-fe"]
 	path = eventstar-fe
 	url = git@github.com:ridho-y/eventstar-fe.git
+	branch = main
